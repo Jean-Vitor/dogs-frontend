@@ -1,0 +1,48 @@
+{
+  "translation": {
+    "dog-list": "Lista de cachorros",
+    "add-dog": "Adicionar cachorro",
+    "edit-dog": "Editar cachorro",
+    "fields": {
+      "name": "Nome",
+      "breed": "Raça",
+      "color": "Cor",
+      "age": "Idade",
+      "select": "Selecione",
+      "save": "Salvar"
+    },
+    "form": {
+      "title": ""
+    },
+    "modal": {
+      "delete": {
+        "title": "Você quer mesmo fazer isso?",
+        "text": "Você irá deletar permanente este registro e esta ação é irreversível",
+        "cancel": "Cancelar",
+        "delete": "Deletar"
+      },
+      "success": {
+        "title": "Sucesso!",
+        "text": "O cachorro foi inserido no banco de dados!",
+        "close": "Fechar"
+      },
+      "success-edit": {
+        "title": "Sucesso!",
+        "text": "O cachorro foi editado no banco de dados!",
+        "close": "Fechar"
+      }
+    },
+    "yup": {
+      "required": {
+        "name": "Nome é um campo obrigatório",
+        "age": "Idade é um campo obrigatório",
+        "color": "Cor é um campo obrigatório",
+        "breed": "Raça é um campo obrigatório"
+      },
+      "number": {
+        "integer": "A idade deve ser um número inteiro",
+        "positive": "A idade deve ser um número positivo"
+      }
+    }
+  }
+}

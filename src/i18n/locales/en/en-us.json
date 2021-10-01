@@ -1,0 +1,45 @@
+{
+  "translation": {
+    "dog-list": "Dog list",
+    "add-dog": "Add dog",
+    "edit-dog": "Edit dog",
+    "fields": {
+      "name": "Name",
+      "breed": "Breed",
+      "color": "Color",
+      "age": "Age",
+      "select": "Select",
+      "save": "Save"
+    },
+    "modal": {
+      "delete": {
+        "title": "Do you really want to do this?",
+        "text": "You will permanently delete this record and this action is irreversible",
+        "cancel": "Cancel",
+        "delete": "Delete"
+      },
+      "success": {
+        "title": "Success!",
+        "text": "The dog has been inserted in database!",
+        "close": "Close"
+      },
+      "success-edit": {
+        "title": "Success!",
+        "text": "The dog has been edited in database!",
+        "close": "Close"
+      }
+    },
+    "yup": {
+      "required": {
+        "name": "Name is a required field",
+        "age": "Age is a required field",
+        "color": "Color is a required field",
+        "breed": "Breed is a required field"
+      },
+      "number": {
+        "integer": "The age must be a integer number",
+        "positive": "The age must be a positive number"
+      }
+    }
+  }
+}
